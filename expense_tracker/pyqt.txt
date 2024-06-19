@@ -1,0 +1,2 @@
+for converting .ui file to .py file:
+	pyuic5 -o <filename>.ui -x <filename>.py
